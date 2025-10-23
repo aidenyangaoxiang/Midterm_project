@@ -16,11 +16,13 @@ This project analyzes housing price determinants in **Taipei** and **Boston** us
 ## 📦 Datasets
 
 ### 🏙️ Taipei Real Estate Data
-- Price per unit area
-- Age of the house
-- Distance to the nearest MRT station
-- Number of nearby convenience stores
-- Latitude and longitude (location)
+- Price per unit area (Y)
+- Transaction date: the time of the property transaction (X1)
+- Age of the house (X2)
+- Distance to the nearest MRT station (X3)
+- Number of nearby convenience stores (X4)
+- Latitude: the geographic latitude of the property (X5)
+- Longitude: the geographic longitude of the property (X6)
 
 ### 🏡 Boston Housing Data (UCI Housing Dataset)
 - Median value of homes (MEDV)
