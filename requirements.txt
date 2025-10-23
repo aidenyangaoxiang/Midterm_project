@@ -1,0 +1,9 @@
+kagglehub
+matplotlib
+numpy
+pandas
+pathlib
+seaborn
+sklearn
+statsmodels
+ucimlrepo
